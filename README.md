@@ -61,8 +61,7 @@ How to Run
 1. Install dependencies:
    numpy, pandas, torch, scikit-learn, statsmodels, python-docx
 2. Run the Python script:
-   python main.py
-3. View printed evaluation results in the console
+   python TimeSeriesForecast.py
 
 Future Improvements
 - Extend to Transformer-based architectures
